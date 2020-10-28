@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{845FB2DD-1F5A-4FB8-A07C-85EF7B12C636}"
+	ProjectSection(SolutionItems) = preProject
+		Kdd.Glide.UnsafeUrlLoadingAppGlideModule.nuspec = Kdd.Glide.UnsafeUrlLoadingAppGlideModule.nuspec
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kdd.Glide.UnsafeUrlLoadingAppGlideModule", "Kdd.Glide.UnsafeUrlLoadingAppGlideModule\Kdd.Glide.UnsafeUrlLoadingAppGlideModule.csproj", "{B2675594-D705-4A4E-9121-2DD83F273C8B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B2675594-D705-4A4E-9121-2DD83F273C8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B2675594-D705-4A4E-9121-2DD83F273C8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B2675594-D705-4A4E-9121-2DD83F273C8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B2675594-D705-4A4E-9121-2DD83F273C8B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
