@@ -1,4 +1,4 @@
-# Unsafe Url Loading AppGlideModule - module for loading images with untrusted (self-signed) certificates
+# Unsafe Url Loading AppGlideModule
 
 This package gives the ability to load images from sources with untrusted (self-signed) certificates
 
