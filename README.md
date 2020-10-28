@@ -8,6 +8,6 @@ Instruction:
     - https://www.nuget.org/packages/Kdd.Glide.UnsafeUrlLoadingAppGlideModule/
 
 2. Inject instance of `UnsafeUrlLoadingAppGlideModule` during application startup:
-    `GlideAppModuleInjector.Inject(new UnsafeUrlLoadingAppGlideModule());`
+    >`GlideAppModuleInjector.Inject(new UnsafeUrlLoadingAppGlideModule());`
   
 3. Enjoy using it!
